@@ -1,4 +1,4 @@
-Hello there! Welcome to my GitHub page! 😊👋
+Hello there! 😊👋
 
 <!--
 **Esvol/Esvol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
