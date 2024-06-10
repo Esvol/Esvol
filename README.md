@@ -1,4 +1,4 @@
-Working as a team divides the task and multiplies success. ✨
+Teamwork divides the task and multiplies success. ✨
 
 <!--
 **Esvol/Esvol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
